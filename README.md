@@ -1,2 +1,2 @@
 # python_training
-Automated Testing Class
+Repository for Python training
